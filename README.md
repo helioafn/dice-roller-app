@@ -1,3 +1,3 @@
 # Dice Roller App
 
-My solution to Dice Roller app codelab solution (Basic Android with Kotlin training / developer.android.com)
+Minha solução do aplicativo parte do codelab "Criar um app Dice Roller" (Android Básico com Kotlin / developer.android.com)
